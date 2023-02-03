@@ -2,7 +2,7 @@
 
 Hi, I’m Febucci and I’ve created this package to help having a clearer Hierarchy in Unity, organizing everything in a “tree view” and including extra informations like Components Icons and groups/divisors.
 
-*Changes From Upstream*: Accepted several of the pending PR's in upstream in hopes of eventually switching over to upstream once those PR's are accepted.
+**Changes From Upstream:** Accepted several of the pending PR's in upstream in hopes of eventually switching over to upstream once those PR's are accepted.
 
 ## Instructions
 You can install this package in two ways.
